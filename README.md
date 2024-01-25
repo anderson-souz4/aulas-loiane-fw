@@ -6,6 +6,6 @@ O  Repositório atual contém os exercícios dos módulos Programação Básica,
    https://loiane.training/curso/java-basico
 	
  - A lista com os exercícios estão disponíveis a partir do link: 
-   	https://github.com/loiane/curso-java-basico/tree/master/exercicios
+   https://github.com/loiane/curso-java-basico/tree/master/exercicios
 
    
